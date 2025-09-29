@@ -1,0 +1,11 @@
+title: Di lab
+description: cognitive实验室
+url: "https://kkkevinky.github.io"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/kkkevinky" }
