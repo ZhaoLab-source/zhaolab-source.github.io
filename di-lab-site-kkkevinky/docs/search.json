@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Di lab\n\n📢 [News]({{ “/news” | relative_url }})\n👥 [People]({{ “/people” | relative_url }})\n📄 [Publications]({{ “/publications” | relative_url }})"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Lab web 发布第一天 / Day 1",
+    "section": "",
+    "text": "Di lab 的初版发布上线！\n（地址：https://kkkevinky.github.io —— 之后会迁到实验室域名/仓库）"
+  },
+  {
+    "objectID": "news.html#本次上线包含",
+    "href": "news.html#本次上线包含",
+    "title": "Lab web 发布第一天 / Day 1",
+    "section": "本次上线包含",
+    "text": "本次上线包含\n\nHome：基本介绍与研究方向\n\nNews：新闻列表（你正在看的这一条）\n\nPeople：先放置 PI: Di Zhao 占位，成员后续补充\n\nPublications：样例结构，等待导入正式条目"
+  },
+  {
+    "objectID": "news.html#技术栈",
+    "href": "news.html#技术栈",
+    "title": "Lab web 发布第一天 / Day 1",
+    "section": "技术栈",
+    "text": "技术栈\n\nGitHub Pages + Jekyll（minima 主题）\n\n内容以 Markdown 为主，局部使用 Liquid 模板"
+  },
+  {
+    "objectID": "news.html#下一步计划",
+    "href": "news.html#下一步计划",
+    "title": "Lab web 发布第一天 / Day 1",
+    "section": "下一步计划",
+    "text": "下一步计划\n\n填充 People 详情与头像（assets/img/）\n\n增补代表作到 Publications\n\n新增近期 News（活动、论文、招新等）\n\n美化页面\n\n欢迎反馈与建议！🙌"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "People\nDi Zhao | PI |"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications"
+  }
+]
