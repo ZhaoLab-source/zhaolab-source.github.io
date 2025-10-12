@@ -1,0 +1,5 @@
+/.quarto/
+**/*.quarto_ipynb
+# Quarto/build caches and temporary output
+.quarto/
+_site/
