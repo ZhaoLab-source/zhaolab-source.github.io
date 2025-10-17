@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Zhao Lab"
+  navbar:
+    left:
+      - text: "News"
+        href: news.md
+      - text: "PI"
+        href: pi.md
+      - text: "People"
+        href: people.md
+      - text: "Publications"
+        href: publications.md
+      - text: "Contact"
+        href: contact.md
+    right:
+      - text: "中文"
+        href: zh/index.md
+
+
+# where the rendered site will be written (point to repo-level docs folder)
+# (kept under project.output-dir above)
+
+# treat files under _posts as a posts collection (optional)
+collections:
+  posts:
+    type: posts
+    sort: date
+
+# include site-wide custom CSS
+format:
+  html:
+    css: styles.css
+    include-in-header: _includes/head.html
+    anchor-sections: false
