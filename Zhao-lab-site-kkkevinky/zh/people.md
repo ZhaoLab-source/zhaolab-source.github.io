@@ -1,27 +1,23 @@
+---
 title: 人员
 permalink: /zh/people/
 lang: zh
-website:
-	navbar:
-		left:
-			- text: "新闻"
-				href: zh/news.md
-			- text: "人员"
-				href: zh/people.md
-			- text: "出版物"
-				href: zh/publications.md
-			- text: "联系"
-				href: zh/contact.md
-		---
-		title: 人员
-		permalink: /zh/people/
-		lang: zh
-		---
-#### 张馨元
+---
+
+访问 [PI 页面](../pi.md) 了解课题组负责人详情。
+
+### 博士研究生
+
+::: {.member-grid}
+::: {.member-card}
+![于权浩](../images/QuanhaoYu.png){.member-avatar alt="于权浩"}
+于权浩
+<div class="member-role">博士研究生 · 研究兴趣：奖励加工</div>
+:::
+::: {.member-card}
+![张馨元](../images/XinyuanZhang.png){.member-avatar alt="张馨元"}
+张馨元
 <div class="member-role">博士研究生 · 研究兴趣：成瘾机制与神经调控</div>
-<div class="member-links">
-<a href="mailto:">邮箱</a>
-</div>
 :::
 :::
 
@@ -35,4 +31,10 @@ website:
 
 ### 校友
 
-<!-- 按照同样的卡片模板添加成员 -->
+::: {.member-grid}
+::: {.member-card}
+![崔振华](../images/ZhenhuaCui.png){.member-avatar alt="崔振华"}
+崔振华
+<div class="member-role">校友 · 前科研助理；现 KCL 心理与神经科学研究生</div>
+:::
+:::
