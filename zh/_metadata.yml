@@ -7,7 +7,7 @@ website:
       - text: "新闻"
         href: zh/news.md
       - text: "首席研究员"
-        href: ../pi.md
+        href: zh/pi.md
       - text: "人员"
         href: zh/people.md
       - text: "出版物"
