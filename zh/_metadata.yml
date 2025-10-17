@@ -15,3 +15,6 @@ website:
     right:
       - text: "EN"
         href: ../index.md
+format:
+  html:
+    include-after-body: ../_includes/zh-navbar.html
