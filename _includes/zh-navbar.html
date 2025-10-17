@@ -1,0 +1,54 @@
+<script>
+// Runtime override of navbar on zh pages
+document.addEventListener('DOMContentLoaded', function () {
+  try {
+    const navCollapse = document.getElementById('navbarCollapse');
+    if (!navCollapse) return;
+
+    // Rebuild left nav with zh items
+    const leftUl = navCollapse.querySelector('.navbar-nav.me-auto');
+    if (leftUl) {
+      leftUl.innerHTML = '';
+      const items = [
+        { text: '新闻', href: 'news.html' },
+        { text: '人员', href: 'people.html' },
+        { text: '出版物', href: 'publications.html' },
+        { text: '联系', href: 'contact.html' },
+      ];
+      for (const it of items) {
+        const li = document.createElement('li');
+        li.className = 'nav-item';
+        const a = document.createElement('a');
+        a.className = 'nav-link';
+        a.href = it.href;
+        const span = document.createElement('span');
+        span.className = 'menu-text';
+        span.textContent = it.text;
+        a.appendChild(span);
+        li.appendChild(a);
+        leftUl.appendChild(li);
+      }
+    }
+
+    // Rebuild right nav with EN switch
+    const rightUl = navCollapse.querySelector('.navbar-nav.ms-auto');
+    if (rightUl) {
+      rightUl.innerHTML = '';
+      const li = document.createElement('li');
+      li.className = 'nav-item';
+      const a = document.createElement('a');
+      a.className = 'nav-link';
+      a.href = '../index.html';
+      const span = document.createElement('span');
+      span.className = 'menu-text';
+      span.textContent = 'EN';
+      a.appendChild(span);
+      li.appendChild(a);
+      rightUl.appendChild(li);
+    }
+  } catch (e) {
+    // no-op if structure differs
+    console.warn('zh-navbar override failed:', e);
+  }
+});
+</script>
