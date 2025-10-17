@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zhao Lab"
+  navbar:
+    left:
+      - text: "News"
+        href: news.md
+      - text: "PI"
+        href: pi.md
+      - text: "People"
+        href: people.md
+      - text: "Publications"
+        href: publications.md
+      - text: "Contact"
+        href: contact.md
+    right:
+      - text: "中文"
+        href: zh/index.md
+
+collections:
+  posts:
+    type: posts
+    sort: date
+
+format:
+  html:
+    css: styles.css
+    include-in-header: _includes/head.html
+    anchor-sections: false

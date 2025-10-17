@@ -1,0 +1,22 @@
+---
+title: 主页
+permalink: /zh/
+lang: zh
+website:
+  navbar:
+    left:
+      - text: "新闻"
+        href: zh/news.md
+      - text: "人员"
+        href: zh/people.md
+      - text: "出版物"
+        href: zh/publications.md
+      - text: "联系"
+        href: zh/contact.md
+    right:
+      - text: "EN"
+        href: ../index.md
+---
+
+欢迎来到Di Lab。
+
