@@ -1,5 +1,6 @@
 lang: zh
 
+# Directory-level navbar override for zh site
 website:
   navbar:
     left:
