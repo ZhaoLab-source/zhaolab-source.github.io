@@ -27,7 +27,7 @@ permalink: /publications/
 
 #### 2024
 
-1. Gu Y, Shan J, Huang T, Yu C, Wu H, Hu X, Tong X, Jia R, Noda Y, Du J*, Yuan T*F, Luo W*, Zhao D*. Exploring the interplay between addiction and time perception: A systematic review and meta-analysis. Progress in Neuro-psychopharmacology and Biological Psychiatry. 2024 Jul 22;135:111104. doi: [10.1016/j.pnpbp.2024.111104](https://doi.org/10.1016/j.pnpbp.2024.111104)
+1. Gu Y, Shan J, Huang T, Yu C, Wu H, Hu X, Tong X, Jia R, Noda Y, Du J*, Yuan TF*, Luo W*, Zhao D*. Exploring the interplay between addiction and time perception: A systematic review and meta-analysis. Progress in Neuro-psychopharmacology and Biological Psychiatry. 2024 Jul 22;135:111104. doi: [10.1016/j.pnpbp.2024.111104](https://doi.org/10.1016/j.pnpbp.2024.111104)
 
 2. Tian W#, Zhao D#, Ding J, Zhan S, Zhang Y, Etkin A, Wu W*, Yuan TF*. An electroencephalographic signature predicts craving for methamphetamine. Cell Reports Medicine. 2024 Jan 16;5(1):101347 (equally contribution)
 
@@ -51,4 +51,4 @@ permalink: /publications/
 
 #### 2018
 
-1. Zhao, D, Zhou, Y-D, Bodner, M, & Ku, Y*, The Causal Role of the Prefrontal Cortex and Somatosensory Cortex in Tactile Working Memory. Cerebral Cortex, 2018.Oct, 28(10): 3468-3477
+1. Zhao,D., Zhou, Y-D., Bodner, M., & Ku, Y*., The Causal Role of the Prefrontal Cortex and Somatosensory Cortex in Tactile Working Memory. Cerebral Cortex, 2018.Oct, 28(10): 3468-3477
