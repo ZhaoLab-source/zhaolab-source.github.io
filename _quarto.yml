@@ -3,6 +3,13 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
+  render:
+    - index.md
+    - news.md
+    - people.md
+    - publications.md
+    - pi.md
+    - contact.md
 
 website:
   title: "Zhao Lab"
@@ -18,9 +25,8 @@ website:
         href: publications.md
       - text: "Contact"
         href: contact.md
-    right:
-      - text: "中文"
-        href: zh/index.md
+    # Temporarily hide Chinese switch while zh site is under construction
+    # right: []
 
 collections:
   posts:

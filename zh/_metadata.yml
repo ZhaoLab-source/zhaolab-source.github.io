@@ -1,22 +1,5 @@
 lang: zh
 
 # Directory-level navbar override for zh site
-website:
-  navbar:
-    left:
-      - text: "新闻"
-        href: zh/news.md
-      - text: "首席研究员"
-        href: zh/pi.md
-      - text: "人员"
-        href: zh/people.md
-      - text: "出版物"
-        href: zh/publications.md
-      - text: "联系"
-        href: zh/contact.md
-    right:
-      - text: "EN"
-        href: ../index.md
-format:
-  html:
-    include-after-body: ../_includes/zh-navbar.html
+draft: true
+website: {}
