@@ -8,7 +8,7 @@ format:
 
 # <span class="page-hero-title"><span class="hero-text"><span class="brand-title">Zhao Lab</span> | Mental Spectrum Research Group</span><img class="page-hero-logo" src="images/labweb_logo.png" alt="Zhao Lab logo" /></span>
 
-```{=html}
+{=html}
 <div id="lab-views-carousel" class="carousel slide hero-carousel" data-bs-ride="carousel" data-bs-interval="6000" data-bs-touch="true">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#lab-views-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="View 1"></button>
@@ -31,7 +31,7 @@ format:
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-```
+
 
 ## RESEARCH INTERESTS
 
