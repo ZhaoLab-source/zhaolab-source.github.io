@@ -219,11 +219,20 @@ body.page-pi #pi-awards li {
   /* responsive height: min 240px, scales with viewport, caps at 460px */
   height: clamp(240px, 40vw, 460px);
 }
-.hero-carousel .carousel-item,
-.hero-carousel .carousel-item img { height: 100%; }
+/* Make slide take the fixed height and center content */
+.hero-carousel .carousel-item {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff; /* letterbox color */
+}
 .hero-carousel .carousel-item img {
-  width: 100%;
-  object-fit: cover; /* fill container, crop as needed for uniformity */
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain; /* show whole image without cropping */
 }
 
 /* Indicators: bigger and clearer */
