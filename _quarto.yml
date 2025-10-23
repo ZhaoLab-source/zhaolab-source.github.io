@@ -37,4 +37,32 @@ format:
   html:
     css: styles.css
     include-in-header: _includes/head.html
+    include-after-body:
+      - text: |
+          <!-- 可选：Bootstrap 5 JS bundle（Quarto 已内置 Bootstrap JS，一般无需此行） -->
+          <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script> -->
+          <script>
+            // 兜底初始化：使用手动控制，不自动轮播，避免点击后被自动跳回
+            document.addEventListener('DOMContentLoaded', function () {
+              var el = document.querySelector('#lab-views-carousel');
+              if (el && window.bootstrap && bootstrap.Carousel) {
+                // 若已存在实例则复用，否则新建
+                var instance = bootstrap.Carousel.getInstance(el);
+                if (!instance) {
+                  instance = new bootstrap.Carousel(el, {
+                    interval: false,   // 不自动轮播
+                    ride: false,       // 不自动启动
+                    touch: true,
+                    wrap: true,
+                    keyboard: true,
+                    pause: 'hover'
+                  });
+                } else {
+                  instance._config.interval = false;
+                  instance._config.ride = false;
+                  instance._config.wrap = true;
+                }
+              }
+            });
+          </script>
     anchor-sections: false
