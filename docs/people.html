@@ -154,32 +154,47 @@ ul.task-list li input[type="checkbox"] {
 <div class="member-grid">
 <div class="member-card">
 <img src="images/QuanhaoYu.png" class="member-avatar img-fluid" alt="Quanhao Yu"> Quanhao Yu
+<div class="member-email">
+<a href="mailto:yqh847438584@126.com">yqh847438584@126.com</a>
+</div>
 <div class="member-role">
 PhD Student · interested in reward process
 </div>
 </div>
 <div class="member-card">
 <img src="images/XinyuanZhang.png" class="member-avatar img-fluid" alt="Xinyuan Zhang"> Xinyuan Zhang
+<div class="member-email">
+<a href="mailto:xinyuanz11@163.com">xinyuanz11@163.com</a>
+</div>
 <div class="member-role">
 PhD Student · interested in mechanism of addiction and neuromodulation
 </div>
 </div>
 <div class="member-card">
 <img src="images/YihanYan.png" class="member-avatar img-fluid" alt="Yihan Yan"> Yihan Yan
+<div class="member-email">
+<a href="mailto:y9946h@sjtu.edu.cn">y9946h@sjtu.edu.cn</a>
+</div>
 <div class="member-role">
 PhD Student · interested in large-scale brain network analysis
 </div>
 </div>
 <div class="member-card">
 <img src="images/MengtingShen.png" class="member-avatar img-fluid" alt="Mengting (Vicky) Shen"> Mengting (Vicky) Shen
+<div class="member-email">
+<a href="mailto:smt15258410298@163.com">smt15258410298@163.com</a>
+</div>
 <div class="member-role">
-PhD Student
+PhD Student · interested in using electroencephalography to explore the neural mechanisms underlying the functional decline in the elderly
 </div>
 </div>
 <div class="member-card">
 <img src="images/XinyiZhou.png" class="member-avatar img-fluid" alt="Xinyi (Kathryn) Zhou"> Xinyi (Kathryn) Zhou
+<div class="member-email">
+<a href="mailto:kkkathryn@sjtu.edu.cn">kkkathryn@sjtu.edu.cn</a>
+</div>
 <div class="member-role">
-PhD Student
+PhD Student · interested in using non-invasive brain stimulation (e.g., TMS/tDCS) and neuroimaging to investigate the neural mechanisms of cognitive impairment in individuals with addiction
 </div>
 </div>
 </div>
@@ -189,28 +204,31 @@ PhD Student
 <div class="member-grid">
 <div class="member-card">
 <img src="images/YutongLi.png" class="member-avatar img-fluid" alt="Yutong Li"> Yutong Li
+<div class="member-email">
+<a href="mailto:yutongli@sjtu.edu.cn">yutongli@sjtu.edu.cn</a>
+</div>
 <div class="member-role">
 Master Student · interested in computational psychiatry
 </div>
 </div>
 <div class="member-card">
 <img src="images/KeyiZhang.png" class="member-avatar img-fluid" alt="Keyi Zhang"> Keyi Zhang
+<div class="member-email">
+<a href="mailto:kevinzhangkeyi@gmail.com">kevinzhangkeyi@gmail.com</a>
+</div>
 <div class="member-role">
 Master Student · interested in time perception
 </div>
 </div>
 <div class="member-card">
 <img src="images/YuqiaoCai.png" class="member-avatar img-fluid" alt="Yuqiao Cai"> Yuqiao Cai
+<div class="member-email">
+<a href="mailto:caiyq2025@sjtu.edu.cn">caiyq2025@sjtu.edu.cn</a>
+</div>
 <div class="member-role">
-Master Student
+Master Student · interested in the role of metacognition in decision making
 </div>
-</div>
-</div>
-</section>
-<section id="research-assistants-technicians" class="level3">
-<h3 data-anchor-id="research-assistants-technicians">Research Assistants / Technicians</h3>
 <!-- Add members here using the same card template -->
-</section>
 <section id="interns" class="level3">
 <h3 data-anchor-id="interns">Interns</h3>
 <!-- Add members here using the same card template -->
@@ -219,7 +237,7 @@ Master Student
 <h3 data-anchor-id="alumni">Alumni</h3>
 <div class="member-grid">
 <div class="member-card">
-<img src="images/ZhenhuaCui.png" class="member-avatar img-fluid" alt="Zhenhua Cui"> Zhenhua Cui
+<img src="images/ZhenhuaCui.png" class="member-avatar img-fluid" alt="Zhenhua Cui"> Zhenhua Cui <!--div class="member-email"><a href="mailto:REPLACE_WITH_EMAIL">[填写邮箱]</a></div-->
 <div class="member-role">
 Alumni · former Research Assistant; now postgraduate student in psychology and neuroscience at KCL
 </div>
@@ -227,6 +245,9 @@ Alumni · former Research Assistant; now postgraduate student in psychology and 
 </div>
 
 
+</section>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -624,6 +645,32 @@ Alumni · former Research Assistant; now postgraduate student in psychology and 
   });
   </script>
 </div> <!-- /content -->
+<!-- 可选：Bootstrap 5 JS bundle（Quarto 已内置 Bootstrap JS，一般无需此行） -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" defer></script> -->
+<script>
+  // 兜底初始化：使用手动控制，不自动轮播，避免点击后被自动跳回
+  document.addEventListener('DOMContentLoaded', function () {
+    var el = document.querySelector('#lab-views-carousel');
+    if (el && window.bootstrap && bootstrap.Carousel) {
+      // 若已存在实例则复用，否则新建
+      var instance = bootstrap.Carousel.getInstance(el);
+      if (!instance) {
+        instance = new bootstrap.Carousel(el, {
+          interval: false,   // 不自动轮播
+          ride: false,       // 不自动启动
+          touch: true,
+          wrap: true,
+          keyboard: true,
+          pause: 'hover'
+        });
+      } else {
+        instance._config.interval = false;
+        instance._config.ride = false;
+        instance._config.wrap = true;
+      }
+    }
+  });
+</script>
 
 
 

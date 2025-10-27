@@ -111,11 +111,13 @@ img { border-radius: 6px }
 
 /* News timeline styles */
 .news-list { list-style: none; padding-left: 0; }
-.news-item { display: flex; gap: .75rem; align-items: flex-start; padding: .5rem 0; border-bottom: 1px dashed rgba(15,23,42,0.08); }
-.news-date { font-weight: 600; color: #334155; background: #eef2ff; border: 1px solid #c7d2fe; padding: 0.15rem 0.5rem; border-radius: 999px; font-size: .85rem; white-space: nowrap; }
+.news-item { padding: .5rem 0; border-bottom: 1px dashed rgba(15,23,42,0.08); }
+.news-date { font-weight: 600; color: #334155; background: #eef2ff; border: 1px solid #c7d2fe; padding: 0.1rem 0.4rem; border-radius: 999px; font-size: .75rem; white-space: nowrap; }
 .news-body { flex: 1; }
 .badge { display: inline-block; padding: 0.15rem 0.5rem; font-size: .8rem; border-radius: 999px; border: 1px solid transparent; margin-right: .35rem; }
 .badge.pub { background: #ecfeff; border-color: #a5f3fc; color: #155e75; }
+.badge.date { background: #eef2ff; border-color: #c7d2fe; color: #334155; }
+.badge.date p { margin: 0; display: inline; }
 .badge.grant { background: #f0fdf4; border-color: #bbf7d0; color: #166534; }
 .badge.award { background: #fff7ed; border-color: #fed7aa; color: #9a3412; }
 
@@ -132,6 +134,53 @@ img { border-radius: 6px }
 .news-thumb {
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+/* News page: widen layout and enlarge thumbnails responsively */
+body.page-news .container {
+  max-width: 1360px;
+}
+
+/* Large screens: big thumbnails floated right with margin */
+/* Desktop large: very large thumbnails */
+@media (min-width: 1400px) {
+  .news-thumb {
+    width: 480px;
+    height: auto;
+    float: right;
+    margin: 0 0 1rem 1.25rem;
+  }
+}
+
+/* Desktop standard */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .news-thumb {
+    width: 420px;
+    height: auto;
+    float: right;
+    margin: 0 0 1rem 1rem;
+  }
+}
+
+/* Medium screens */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .news-thumb {
+    width: 340px;
+    height: auto;
+    float: right;
+    margin: 0 0 1rem 1rem;
+  }
+}
+
+/* Small screens: full width, no float */
+@media (max-width: 767px) {
+  .news-thumb {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin: 0.5rem 0;
+    display: block;
+  }
 }
 
 /* Navbar typography: Times New Roman */
@@ -212,18 +261,52 @@ body.page-pi #pi-awards li {
 }
 
 /* --- Index: hero carousel styles --- */
-.hero-carousel {
-  margin: 1rem 0 2rem 0;
+.hero-carousel { margin: 1rem 0 2rem 0; }
+
+/* Consistent slide height across images */
+.hero-carousel .carousel-inner {
+  /* responsive height: min 240px, scales with viewport, caps at 460px */
+  height: clamp(240px, 40vw, 460px);
+}
+/* Make slide take the fixed height and center content */
+.hero-carousel .carousel-item {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff; /* letterbox color */
 }
 .hero-carousel .carousel-item img {
-  width: 100%;
-  max-height: 460px; /* compact height under hero */
-  object-fit: cover; /* crop to fill nicely */
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain; /* show whole image without cropping */
 }
+
+/* Indicators: bigger and clearer */
+.hero-carousel .carousel-indicators { margin-bottom: .25rem; }
 .hero-carousel .carousel-indicators [data-bs-target] {
-  background-color: rgba(255, 255, 255, 0.85);
+  width: .75rem; height: .75rem; border-radius: 999px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0,0,0,0.25);
+}
+.hero-carousel .carousel-indicators .active {
+  background-color: #0b5cff; border-color: rgba(0,0,0,0.15);
+}
+
+/* Controls: larger circular buttons with stronger contrast */
+.hero-carousel .carousel-control-prev,
+.hero-carousel .carousel-control-next {
+  width: auto; opacity: 1; /* always visible */
 }
 .hero-carousel .carousel-control-prev-icon,
 .hero-carousel .carousel-control-next-icon {
-  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.35));
+  width: 3rem; height: 3rem; background-size: 1.25rem 1.25rem;
+  background-color: rgba(0,0,0,0.45); border-radius: 999px;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.35));
+}
+.hero-carousel .carousel-control-prev:hover .carousel-control-prev-icon,
+.hero-carousel .carousel-control-next:hover .carousel-control-next-icon {
+  background-color: rgba(0,0,0,0.65);
 }
