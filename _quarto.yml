@@ -4,7 +4,7 @@ project:
   resources:
     - .nojekyll
   render:
-    - index.md
+    - index.qmd
     - news.md
     - people.md
     - publications.md
