@@ -111,11 +111,13 @@ img { border-radius: 6px }
 
 /* News timeline styles */
 .news-list { list-style: none; padding-left: 0; }
-.news-item { display: flex; gap: .75rem; align-items: flex-start; padding: .5rem 0; border-bottom: 1px dashed rgba(15,23,42,0.08); }
-.news-date { font-weight: 600; color: #334155; background: #eef2ff; border: 1px solid #c7d2fe; padding: 0.15rem 0.5rem; border-radius: 999px; font-size: .85rem; white-space: nowrap; }
+.news-item { padding: .5rem 0; border-bottom: 1px dashed rgba(15,23,42,0.08); }
+.news-date { font-weight: 600; color: #334155; background: #eef2ff; border: 1px solid #c7d2fe; padding: 0.1rem 0.4rem; border-radius: 999px; font-size: .75rem; white-space: nowrap; }
 .news-body { flex: 1; }
 .badge { display: inline-block; padding: 0.15rem 0.5rem; font-size: .8rem; border-radius: 999px; border: 1px solid transparent; margin-right: .35rem; }
 .badge.pub { background: #ecfeff; border-color: #a5f3fc; color: #155e75; }
+.badge.date { background: #eef2ff; border-color: #c7d2fe; color: #334155; }
+.badge.date p { margin: 0; display: inline; }
 .badge.grant { background: #f0fdf4; border-color: #bbf7d0; color: #166534; }
 .badge.award { background: #fff7ed; border-color: #fed7aa; color: #9a3412; }
 
@@ -132,6 +134,53 @@ img { border-radius: 6px }
 .news-thumb {
   border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+/* News page: widen layout and enlarge thumbnails responsively */
+body.page-news .container {
+  max-width: 1360px;
+}
+
+/* Large screens: big thumbnails floated right with margin */
+/* Desktop large: very large thumbnails */
+@media (min-width: 1400px) {
+  .news-thumb {
+    width: 480px;
+    height: auto;
+    float: right;
+    margin: 0 0 1rem 1.25rem;
+  }
+}
+
+/* Desktop standard */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .news-thumb {
+    width: 420px;
+    height: auto;
+    float: right;
+    margin: 0 0 1rem 1rem;
+  }
+}
+
+/* Medium screens */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .news-thumb {
+    width: 340px;
+    height: auto;
+    float: right;
+    margin: 0 0 1rem 1rem;
+  }
+}
+
+/* Small screens: full width, no float */
+@media (max-width: 767px) {
+  .news-thumb {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin: 0.5rem 0;
+    display: block;
+  }
 }
 
 /* Navbar typography: Times New Roman */
