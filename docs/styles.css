@@ -40,8 +40,8 @@ body.page-pi .container {
 }
 .pi-contact { display: block; clear: both; }
 .pi-profile .pi-avatar { 
-  width: 96px; 
-  height: 96px; 
+  width: 120px; 
+  height: 120px; 
   object-fit: cover; 
   border-radius: 999px; 
   display: block; 
