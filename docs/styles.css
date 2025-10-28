@@ -283,52 +283,27 @@ body.page-pi #pi-awards li {
 }
 
 /* --- Index: hero carousel styles --- */
-.hero-carousel { margin: 1rem 0 2rem 0; }
-
-/* Consistent slide height across images */
-.hero-carousel .carousel-inner {
-  /* responsive height: min 240px, scales with viewport, caps at 460px */
-  height: clamp(240px, 40vw, 460px);
+/* --- Index: hero duo images --- */
+.hero-duo { 
+  display: grid; 
+  grid-template-columns: 1fr; 
+  gap: 1rem; 
+  margin: 1rem 0 2rem 0;
 }
-/* Make slide take the fixed height and center content */
-.hero-carousel .carousel-item {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #ffffff; /* letterbox color */
+@media (min-width: 900px){
+  .hero-duo { grid-template-columns: 1fr 1fr; }
 }
-.hero-carousel .carousel-item img {
-  max-height: 100%;
-  max-width: 100%;
-  width: auto;
-  height: auto;
-  object-fit: contain; /* show whole image without cropping */
+.hero-card { 
+  margin: 0; 
+  aspect-ratio: 16 / 9; 
+  overflow: hidden; 
+  border-radius: 12px; 
+  box-shadow: 0 6px 18px rgba(2,6,23,0.06);
+  background: #ffffff;
 }
-
-/* Indicators: bigger and clearer */
-.hero-carousel .carousel-indicators { margin-bottom: .25rem; }
-.hero-carousel .carousel-indicators [data-bs-target] {
-  width: .75rem; height: .75rem; border-radius: 999px;
-  background-color: rgba(255, 255, 255, 0.9);
-  border: 1px solid rgba(0,0,0,0.25);
-}
-.hero-carousel .carousel-indicators .active {
-  background-color: #0b5cff; border-color: rgba(0,0,0,0.15);
-}
-
-/* Controls: larger circular buttons with stronger contrast */
-.hero-carousel .carousel-control-prev,
-.hero-carousel .carousel-control-next {
-  width: auto; opacity: 1; /* always visible */
-}
-.hero-carousel .carousel-control-prev-icon,
-.hero-carousel .carousel-control-next-icon {
-  width: 3rem; height: 3rem; background-size: 1.25rem 1.25rem;
-  background-color: rgba(0,0,0,0.45); border-radius: 999px;
-  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.35));
-}
-.hero-carousel .carousel-control-prev:hover .carousel-control-prev-icon,
-.hero-carousel .carousel-control-next:hover .carousel-control-next-icon {
-  background-color: rgba(0,0,0,0.65);
+.hero-card img { 
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover; 
+  display: block; 
 }

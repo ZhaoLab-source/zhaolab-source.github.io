@@ -75,6 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="styles.css" rel="stylesheet">
 
 
+
 <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -261,6 +262,7 @@ Alumni · former Research Assistant; now postgraduate student in psychology and 
 document.addEventListener('DOMContentLoaded', function () {
   var el = document.getElementById('lab-views-carousel');
   if (!el || !window.bootstrap || !bootstrap.Carousel) return;
+
   var existing = bootstrap.Carousel.getInstance(el);
   if (existing && existing.dispose) existing.dispose();
 

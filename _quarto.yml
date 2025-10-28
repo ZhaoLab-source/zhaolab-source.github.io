@@ -33,4 +33,8 @@ collections:
     type: posts
     sort: date
 
-
+format:
+  html:
+    css: styles.css
+    include-in-header: _includes/head.html
+    anchor-sections: false
