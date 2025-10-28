@@ -88,7 +88,7 @@ h1 { font-size: 2.25rem; margin-bottom: 0.5rem }
 
 /* Index page: slightly widen container to reduce title wrapping */
 body.page-index .container {
-  max-width: 1200px;
+  max-width: 1360px;
 }
 
 /* Hide Quarto default title on index only (we render a custom hero title) */
@@ -304,6 +304,6 @@ body.page-pi #pi-awards li {
 .hero-card img { 
   width: 100%; 
   height: 100%; 
-  object-fit: cover; 
+  object-fit: contain; /* show full image without cropping */
   display: block; 
 }
