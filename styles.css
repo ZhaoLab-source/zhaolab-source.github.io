@@ -27,12 +27,18 @@ body.page-pi .container {
   max-width: 1024px;
 }
 /* PI page: vertical profile layout */
-.pi-profile { 
-  display: block; 
+.pi-profile {
+  display: flex;
+  flex-direction: column;
+  gap: .75rem;
 }
+.pi-profile > * { width: 100%; clear: both; }
+.pi-profile img { float: none !important; }
 .pi-profile .pi-header { 
-  margin-bottom: 1rem; 
+  margin-bottom: .25rem; 
+  text-align: center;
 }
+.pi-contact { display: block; clear: both; }
 .pi-profile .pi-avatar { 
   width: 160px; 
   height: 160px; 
