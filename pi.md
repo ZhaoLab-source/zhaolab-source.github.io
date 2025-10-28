@@ -15,10 +15,12 @@ format:
   <a href="mailto:dizhao_sunset@sjtu.edu.cn">dizhao_sunset@sjtu.edu.cn</a>
 </div>
 
+::: {.pi-contact}
 **Shanghai Jiao Tong University School of Medicine & School of Psychology**  
 Office:  
 C243-4, 100 Tianxiong Road, Pudong District, Shanghai Jiao Tong University School of Medicine  
 Shanghai, China
+:::
 
 ##### Academic Appointments {#pi-appointments}
 - **2025.08 – Present:** Director of Mental Health Nursing, Principal Investigator, Shanghai Jiao Tong University School of Medicine, Shanghai, China
