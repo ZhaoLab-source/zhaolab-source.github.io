@@ -33,9 +33,4 @@ collections:
     type: posts
     sort: date
 
-format:
-  html:
-    css: styles.css
-    include-in-header: _includes/head.html
-    include-after-body: _includes/footer-scripts.html
-    anchor-sections: false
+
