@@ -37,32 +37,5 @@ format:
   html:
     css: styles.css
     include-in-header: _includes/head.html
-    include-after-body:
-      - text: |
-          <script>
-          document.addEventListener('DOMContentLoaded', function () {
-            var el = document.getElementById('lab-views-carousel');
-            if (!el || !window.bootstrap || !bootstrap.Carousel) return;
-            // Dispose any existing instance to avoid double init
-            var existing = bootstrap.Carousel.getInstance(el);
-            if (existing) { try { existing.dispose(); } catch (e) {} }
-            var instance = new bootstrap.Carousel(el, {
-              interval: false,
-              ride: false,
-              touch: true,
-              wrap: true,
-              keyboard: true,
-              pause: 'hover'
-            });
-            // Ensure controls only trigger one action
-            var prevBtn = el.querySelector('.carousel-control-prev');
-            var nextBtn = el.querySelector('.carousel-control-next');
-            if (prevBtn) prevBtn.addEventListener('click', function (e) {
-              e.preventDefault(); e.stopPropagation(); instance.prev();
-            });
-            if (nextBtn) nextBtn.addEventListener('click', function (e) {
-              e.preventDefault(); e.stopPropagation(); instance.next();
-            });
-          });
-          </script>
+    include-after-body: _includes/footer-scripts.html
     anchor-sections: false
