@@ -6,15 +6,14 @@ format:
     body-classes: page-pi
 ---
 
-::: {.row}
-::: {.col-md-2 .text-center}
-![](images/dizhao_placeholder.png){.img-fluid .rounded-circle style="width:150px;height:150px;object-fit:cover" alt="Di Zhao"}
+::: {.pi-profile}
+<div class="pi-header text-center">
+  ![](images/dizhao_placeholder.png){.pi-avatar alt="Di Zhao"}
 
-##### Di Zhao, PhD
-Principal Investigator  
-<a href="mailto:dizhao_sunset@sjtu.edu.cn">dizhao_sunset@sjtu.edu.cn</a>
-:::
-::: {.col-md-10}
+  ##### Di Zhao, PhD
+  Principal Investigator  
+  <a href="mailto:dizhao_sunset@sjtu.edu.cn">dizhao_sunset@sjtu.edu.cn</a>
+</div>
 
 **Shanghai Jiao Tong University School of Medicine & School of Psychology**  
 Office:  
@@ -45,7 +44,6 @@ Shanghai, China
 - **2021:** Shanghai Medical Science and Technology Youth Award (Second Recipient), Shanghai Medical Association
 - **2021:** Brain Science Rising Star Award, Yangtze River Young Brain Science Forum
 
-:::
 :::
 
 ---
