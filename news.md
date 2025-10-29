@@ -5,6 +5,22 @@ permalink: /news/
 
 ::: {.news-list}
 ::: {.news-item}
+![](images/news/zhaoshaoling_news.jpg){.news-thumb alt="Dr. Shaoling Zhao news"}
+
+::: {.badge .date #month-2025-10}
+2025-10
+:::
+
+<span class="badge pub">People</span>  
+News: Welcome Dr. Shaoling Zhao to Our Laboratory：
+We are pleased to welcome Dr. Shaoling Zhao as a faculty member in our laboratory. Her expertise significantly enhances our mission to advance precision neuroscience for mental health.
+
+Dr. Zhao’s research focuses on personalized functional network topography, revealing how individual variations in brain organization contribute to developmental outcomes. She has provided important insights into environmental influences on children’s neurodevelopment, as well as the contribution of white matter functional networks to cognitive differences during youth.
+
+Our laboratory is dedicated to uncovering the cognitive neural mechanisms underlying psychiatric disorders, with strong emphasis on clinical translation across the lifespan. Dr. Zhao’s arrival strengthens our interdisciplinary efforts and future discoveries. We warmly welcome her to the team!
+:::
+
+::: {.news-item}
 ![](images/news/01.jpg){.news-thumb alt="News image 1"}
 
 ::: {.badge .date #month-2025-09}
