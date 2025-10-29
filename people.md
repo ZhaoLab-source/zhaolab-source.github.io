@@ -6,6 +6,17 @@ permalink: /people/
 Visit the [PI page](pi.md) for details about the Principal Investigator.
 
 
+### Faculty-Research Scientist
+::: {.member-grid}
+::: {.member-card}
+![Shaoling Zhao](images/ShaolingZhao.png){.member-avatar alt="Shaoling Zhao"}
+Shaoling Zhao, PhD
+<div class="member-email"><a href="mailto:zhaoshaoling@shsmu.edu.cn">zhaoshaoling@shsmu.edu.cn</a></div>
+<div class="member-role">Faculty-Research Scientist · interested in neurodevelopment, personalized functional network topography and computational psychiatry</div>
+:::
+:::
+
+
 ### PhD Students
 ::: {.member-grid}
 ::: {.member-card}
