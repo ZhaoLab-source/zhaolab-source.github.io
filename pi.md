@@ -29,14 +29,14 @@ Shanghai, China
 - **2018.03 – 2021.07:** Postdoctoral Fellow, Shanghai Jiao Tong University School of Medicine, Shanghai, China
 
 ##### Grants & Funding {#pi-grants}
-- **2024：** Excellent Young Scientists Fund (Grant No. 82422029), National Natural Science Foundation of China (NSFC), 2 million RMB, Principal Investigator
-- **2024：** Major Medical Innovation Program (Grant No. 24Y22800200), Shanghai Municipal Science and Technology Commission, 3 million RMB, Principal Investigator
-- **2023：** General Program (Grant No. 822711530), National Natural Science Foundation of China (NSFC), 520,000 RMB, Principal Investigator
-- **2020：** Youth Program (Grant No. 31900765), National Natural Science Foundation of China (NSFC), 250,000 RMB, Principal Investigator (Completed)
-- **2024：** Oriental Talent Program - Youth Project (Grant No. 2022085), Shanghai Municipal Committee of Talent Affairs, 300,000 RMB, Principal Investigator
-- **2022：** Young Scientific and Technological Rising Star Program (Grant No. 22QA1407900), Shanghai Municipal Science and Technology Commission, 400,000 RMB, Principal Investigator
-- **2021：** National Key Research and Development Program (Grant No. 2021ZD0203904), Ministry of Science and Technology of China, 12 million RMB, Co-Principal Investigator
-- **2024：** Medical-Engineering Interdisciplinary Research Fund - Key Project (Grant No. YG2025ZD07), Shanghai Jiao Tong University, 1 million RMB, Principal Investigator
+- **2024：** Excellent Young Scientists Fund (Grant No. 82422029), National Natural Science Foundation of China (NSFC), Principal Investigator
+- **2024：** Major Medical Innovation Program (Grant No. 24Y22800200), Shanghai Municipal Science and Technology Commission, Principal Investigator
+- **2023：** General Program (Grant No. 822711530), National Natural Science Foundation of China (NSFC),  Principal Investigator
+- **2020：** Youth Program (Grant No. 31900765), National Natural Science Foundation of China (NSFC), Principal Investigator (Completed)
+- **2024：** Oriental Talent Program - Youth Project (Grant No. 2022085), Shanghai Municipal Committee of Talent Affairs, Principal Investigator
+- **2022：** Young Scientific and Technological Rising Star Program (Grant No. 22QA1407900), Shanghai Municipal Science and Technology Commission, Principal Investigator
+- **2021：** National Key Research and Development Program (Grant No. 2021ZD0203904), Ministry of Science and Technology of China, Co-Principal Investigator
+- **2024：** Medical-Engineering Interdisciplinary Research Fund - Key Project (Grant No. YG2025ZD07), Shanghai Jiao Tong University, Principal Investigator
 
 ##### Awards & Honors {#pi-awards}
 - **2023:** Clinical Neuroscience Innovation Award, Yangtze River Young Brain Science Forum

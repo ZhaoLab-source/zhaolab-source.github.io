@@ -6,7 +6,7 @@ permalink: /people/
 Visit the [PI page](pi.md) for details about the Principal Investigator.
 
 
-### Faculty-Research Scientist
+### Faculty-Research Scientists
 ::: {.member-grid}
 ::: {.member-card}
 ![Shaoling Zhao](images/ShaolingZhao.png){.member-avatar alt="Shaoling Zhao"}
