@@ -41,7 +41,7 @@ Yihan Yan
 ![Mengting (Vicky) Shen](images/MengtingShen.png){.member-avatar alt="Mengting (Vicky) Shen"}
 Mengting (Vicky) Shen
 <div class="member-email"><a href="mailto:smt15258410298@163.com">smt15258410298@163.com</a></div>
-<div class="member-role">PhD Student · interested in using electroencephalography to explore the neural mechanisms underlying the functional decline in the elderly</div>
+<div class="member-role">PhD Student · interested in the Mind-brain-body science</div>
 :::
 ::: {.member-card}
 ![Xinyi (Kathryn) Zhou](images/XinyiZhou.png){.member-avatar alt="Xinyi (Kathryn) Zhou"}
