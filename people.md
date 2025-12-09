@@ -70,6 +70,8 @@ Keyi Zhang
 Yuqiao Cai
 <div class="member-email"><a href="mailto:caiyq2025@sjtu.edu.cn">caiyq2025@sjtu.edu.cn</a></div>
 <div class="member-role">Master Student · interested in the role of metacognition in decision making</div>
+:::
+:::
 <!-- Add members here using the same card template -->
 
 ### Interns
