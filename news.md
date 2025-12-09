@@ -5,6 +5,19 @@ permalink: /news/
 
 ::: {.news-list}
 ::: {.news-item}
+![](images/news/AJP_news.png){.news-thumb alt="AJP Commentary News"}
+
+::: {.badge .date #month-2025-12}
+2025-12
+:::
+
+<span class="badge pub">Publication</span>  
+**News: Our Laboratory and International Collaborators Publish Commentary in American Journal of Psychiatry Calling for Inclusive, Evidence-Based rTMS Guidelines in Substance Use Disorders**
+
+December 1, 2025, Prof. Zhao together with international collaborators, have co-authored the paper “Toward Inclusive, Evidence-Based rTMS Care for Patients With Co-Occurring Substance Use Disorders” in the American Journal of Psychiatry. The piece responds to the recently published Delphi consensus on rTMS use in patients with concurrent substance use, recognizing the importance of the topic while noting significant methodological limitations. The authors highlight that a substantial body of evidence supports the safe and effective use of rTMS in individuals with co-occurring substance use disorders. They call for future guidelines to adopt rigorous evidence evaluation, reduce stigma-driven restrictions, and better reflect the realities of psychiatric comorbidity. This collaborative effort underscores the field’s need for more inclusive, data-driven clinical recommendations that expand equitable access to care and strengthen research pathways.
+:::
+
+::: {.news-item}
 ![](images/news/zhaoshaoling_news.jpg){.news-thumb alt="Dr. Shaoling Zhao news"}
 
 ::: {.badge .date #month-2025-10}
