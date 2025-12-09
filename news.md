@@ -14,7 +14,8 @@ permalink: /news/
 <span class="badge pub">Publication</span>  
 **News: Our Laboratory and International Collaborators Publish Commentary in American Journal of Psychiatry Calling for Inclusive, Evidence-Based rTMS Guidelines in Substance Use Disorders**
 
-December 1, 2025, Prof. Zhao together with international collaborators, have co-authored the paper “Toward Inclusive, Evidence-Based rTMS Care for Patients With Co-Occurring Substance Use Disorders” in the American Journal of Psychiatry. The piece responds to the recently published Delphi consensus on rTMS use in patients with concurrent substance use, recognizing the importance of the topic while noting significant methodological limitations. The authors highlight that a substantial body of evidence supports the safe and effective use of rTMS in individuals with co-occurring substance use disorders. They call for future guidelines to adopt rigorous evidence evaluation, reduce stigma-driven restrictions, and better reflect the realities of psychiatric comorbidity. This collaborative effort underscores the field’s need for more inclusive, data-driven clinical recommendations that expand equitable access to care and strengthen research pathways.
+December 1, 2025, Prof. Zhao together with international collaborators, have co-authored the paper “Toward Inclusive, Evidence-Based rTMS Care for Patients With Co-Occurring Substance Use Disorders” in the American Journal of Psychiatry. The piece responds to the recently published Delphi consensus on rTMS use in patients with concurrent substance use, recognizing the importance of the topic while noting significant methodological limitations. The authors highlight that a substantial body of evidence supports the safe and effective use of rTMS in individuals with co-occurring substance use disorders. They call for future guidelines to adopt rigorous evidence evaluation, reduce stigma-driven restrictions, and better reflect the realities of psychiatric comorbidity. This collaborative effort underscores the field’s need for more inclusive, data-driven clinical recommendations that expand equitable access to care and strengthen research pathways.  
+[Read paper](https://doi.org/10.1176/appi.ajp.20250407){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
 :::
 
 ::: {.news-item}
@@ -25,7 +26,7 @@ December 1, 2025, Prof. Zhao together with international collaborators, have co-
 :::
 
 <span class="badge pub">People</span>  
-Welcome Dr. Shaoling Zhao to Our Laboratory：
+**New：Welcome Dr. Shaoling Zhao to Our Laboratory**
 
 We are pleased to welcome Dr. Shaoling Zhao as a faculty member in our laboratory. Her expertise significantly enhances our mission to advance precision neuroscience for mental health.
 
@@ -42,7 +43,9 @@ Our laboratory is dedicated to uncovering the cognitive neural mechanisms underl
 :::
 
 <span class="badge pub">Publication</span>  
-News: Our latest meta-analysis published in Neuroscience & Biobehavioral Reviews in reveals that non-invasive brain stimulation reduces both suicidal ideation and depressive symptoms. Across 21 trials, synergistic effects and cultural influences emerged, highlighting NIBS as a promising, culturally sensitive intervention for depression and suicide prevention.  
+**News: Our latest meta-analysis published in Neuroscience & Biobehavioral Reviews in reveals that non-invasive brain stimulation reduces both suicidal ideation and depressive symptoms**
+
+Across 21 trials, synergistic effects and cultural influences emerged, highlighting NIBS as a promising, culturally sensitive intervention for depression and suicide prevention.  
 [Read paper](https://doi.org/10.1016/j.neubiorev.2025.106299){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
 :::
 
@@ -54,7 +57,9 @@ News: Our latest meta-analysis published in Neuroscience & Biobehavioral Reviews
 :::
 
 <span class="badge pub">Publication</span>  
-News: Our new study published in Biological Psychiatry reveals overlapping neural circuits between social conformity and psychiatric disorders. Using a hierarchical computational framework, we show how aberrant neurobiology shapes conformity, offering new targets for individualized interventions such as pharmacotherapy and neurostimulation.  
+**News: Our new study published in Biological Psychiatry reveals overlapping neural circuits between social conformity and psychiatric disorders** 
+
+Using a hierarchical computational framework, we show how aberrant neurobiology shapes conformity, offering new targets for individualized interventions such as pharmacotherapy and neurostimulation.  
 [Read paper](https://doi.org/10.1016/j.biopsych.2025.05.011){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
 :::
 
@@ -66,7 +71,9 @@ News: Our new study published in Biological Psychiatry reveals overlapping neura
 :::
 
 <span class="badge pub">Publication</span>  
-News: Our latest behavioral modeling study published in Biological Psychiatry-Cognitive Neuroscience and Neuroimaging reveals distinct uncertainty decision-making profiles across substance use disorders. Methamphetamine users show heightened reward sensitivity and flexible ambiguity responses, unlike alcohol users, highlighting disorder-specific mechanisms and the need for precision-targeted interventions.  
+**News: Our latest behavioral modeling study published in Biological Psychiatry-Cognitive Neuroscience and Neuroimaging reveals distinct uncertainty decision-making profiles across substance use disorders** 
+
+Methamphetamine users show heightened reward sensitivity and flexible ambiguity responses, unlike alcohol users, highlighting disorder-specific mechanisms and the need for precision-targeted interventions.  
 [Read paper](https://doi.org/10.1016/j.bpsc.2025.08.008){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
 :::
 
@@ -78,7 +85,9 @@ News: Our latest behavioral modeling study published in Biological Psychiatry-Co
 :::
 
 <span class="badge pub">Publication</span>  
-News: Our new clinical study published in General Psychiatry reveals that adverse home environments significantly exacerbate ADHD core symptoms and oppositional behaviors. These findings highlight the need for early, tailored interventions addressing family dynamics to mitigate behavioral risks in untreated children.  
+**News: Our new clinical study published in General Psychiatry reveals that adverse home environments significantly exacerbate ADHD core symptoms and oppositional behaviors**
+
+These findings highlight the need for early, tailored interventions addressing family dynamics to mitigate behavioral risks in untreated children.  
 [Read paper](https://pubmed.ncbi.nlm.nih.gov/?term=Association+between+adverse+home+environments+and+symptoms+in+drug-naive+children+with+attention-deficit%2Fhyperactivity+disorder){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
 :::
 
@@ -90,7 +99,9 @@ News: Our new clinical study published in General Psychiatry reveals that advers
 :::
 
 <span class="badge pub">Publication</span>  
-News: Our latest connectomic analysis published in International Journal of Clinical and Health Psychology identifies a craving-specific EEG network predicting methamphetamine craving. This beta-band connectome links abstinence duration, impulsivity, and cue-induced craving, highlighting novel neural targets for precision interventions in methamphetamine use disorder.  
+**News: Our latest connectomic analysis published in International Journal of Clinical and Health Psychology identifies a craving-specific EEG network predicting methamphetamine craving** 
+
+This beta-band connectome links abstinence duration, impulsivity, and cue-induced craving, highlighting novel neural targets for precision interventions in methamphetamine use disorder.  
 [Read paper](https://doi.org/10.1016/j.ijchp.2025.100551){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
 :::
 :::
