@@ -14,7 +14,8 @@ permalink: /news/
 <span class="badge pub">Publication</span>  
 **News: Our laboratory published an invited commentary in Addiction entitled “Commentary on Wan et al.: Optimizing the Neurofeedback Protocol in Addiction Treatment.”**
 
-December 17, 2025, Our laboratory published an invited commentary in Addiction entitled “Commentary on Wan et al.: Optimizing the Neurofeedback Protocol in Addiction Treatment.” The article discusses why the therapeutic efficacy of EEG-based neurofeedback in addiction remains inconsistent, highlighting a mechanistic mismatch and substantial methodological heterogeneity across studies. Building on the recent systematic review and meta-analysis by Wan and colleagues, the commentary emphasizes the need to shift from demonstrating general efficacy toward mechanism-driven protocol design and standardized reporting (CRED-nf) to identify effective parameters and specific patient subgroups, thereby enabling more reliable clinical applications of neurofeedback.
+December 17, 2025, Our laboratory published an invited commentary in Addiction entitled “Commentary on Wan et al.: Optimizing the Neurofeedback Protocol in Addiction Treatment.” The article discusses why the therapeutic efficacy of EEG-based neurofeedback in addiction remains inconsistent, highlighting a mechanistic mismatch and substantial methodological heterogeneity across studies. Building on the recent systematic review and meta-analysis by Wan and colleagues, the commentary emphasizes the need to shift from demonstrating general efficacy toward mechanism-driven protocol design and standardized reporting (CRED-nf) to identify effective parameters and specific patient subgroups, thereby enabling more reliable clinical applications of neurofeedback.  
+[Read paper](https://doi.org/10.1111/add.70303){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
 :::
 
 ::: {.news-item}
