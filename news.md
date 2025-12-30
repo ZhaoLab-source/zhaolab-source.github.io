@@ -5,6 +5,20 @@ permalink: /news/
 
 ::: {.news-list}
 ::: {.news-item}
+![](images/news/YihanYan_paper1.png){.news-thumb alt="STAR Protocols News"}
+
+::: {.badge .date #month-2025-12}
+2025-12
+:::
+
+<span class="badge pub">Publication</span>  
+**News: Congratulations to Yi-Han Yan! PhD student Yi-Han Yan has published a new article in STAR Protocols entitled “Protocol to investigate neurophysiological link between resting-state brain activity and clinical symptoms in methamphetamine use disorder.”**
+
+December 29, 2025, In this work, we present a detailed and reproducible protocol aimed at bridging neurophysiological brain signals with clinically meaningful symptoms in psychiatric disorders. Using cue-induced craving in methamphetamine use disorder as a representative example, the protocol leverages high-density electroencephalography (HD-EEG) to characterize resting-state brain activity and functional connectivity at the source level. It systematically outlines procedures for data acquisition, signal preprocessing, source localization, network construction, and statistical association with clinical symptom measures. This protocol provides a flexible framework that can be extended to other psychiatric conditions, supporting future efforts in biomarker discovery and precision psychiatry.  
+[Read paper](https://doi.org/10.1016/j.xpro.2025.104276){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
+:::
+
+::: {.news-item}
 ![](images/news/addiction2025_news.jpg){.news-thumb alt="Addiction Commentary News"}
 
 ::: {.badge .date #month-2025-12}
