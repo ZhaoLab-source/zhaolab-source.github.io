@@ -5,6 +5,23 @@ permalink: /news/
 
 ::: {.news-list}
 ::: {.news-item}
+![](images/news/LiangYue_news.png){.news-thumb alt="Dr. Liang Yue News"}
+
+::: {.badge .date #month-2026-01}
+2026-01
+:::
+
+<span class="badge pub">People</span>  
+**News: We Welcome Dr. Liang Yue to Our Laboratory！**
+
+We are delighted to welcome Dr. Liang Yue as a postdoctoral researcher in our lab. Her research experience in neuroscience will broaden our research fields in the future.
+
+Dr. Yue’s research focuses on the underlying mechanisms of stress. Her current work mainly aims to investigate the neural and molecular mechanisms of stress, and its effect on cue-induced SUD relapse. This research aims to identify key regulatory targets and potential molecular markers associated with stress and cue-induced SUD relapse, providing a novel insight to prevent and reduce SUD relapse risk.
+
+Our laboratory is also intended to investigate the underlying neural mechanisms related to several mental health disorders, especially SUD. Dr. Yue’s research experience in stress-related neural research and psychiatric disorder studies perfectly cover the research fields in our lab. Welcome Dr. Liang Yue to our laboratory!
+:::
+
+::: {.news-item}
 ![](images/news/YihanYan_paper1.png){.news-thumb alt="STAR Protocols News"}
 
 ::: {.badge .date #month-2025-12}

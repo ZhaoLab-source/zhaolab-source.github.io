@@ -17,6 +17,17 @@ Shaoling Zhao, PhD
 :::
 
 
+### Postdoc Researchers
+::: {.member-grid}
+::: {.member-card}
+![Liang Yue](images/LiangYue.png){.member-avatar alt="Liang Yue"}
+Liang Yue, PhD
+<div class="member-email"><a href="mailto:jacy7180@126.com">jacy7180@126.com</a></div>
+<div class="member-role">Postdoc Researcher · interested in the underlying mechanisms of stress</div>
+:::
+:::
+
+
 ### PhD Students
 ::: {.member-grid}
 ::: {.member-card}
