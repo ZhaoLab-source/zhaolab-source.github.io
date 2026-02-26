@@ -9,7 +9,6 @@ Live site: `<add link>`
 This repository contains:
 - website source content (`*.qmd`, `*.md`, styles, includes, assets)
 - generated static site output for deployment (`docs/`)
-- bilingual content under `zh/`
 
 ## Repository Structure
 
@@ -23,7 +22,6 @@ This repository contains:
 ├── publications.md       # Publications page source
 ├── pi.md                 # PI page source
 ├── contact.md            # Contact page source
-├── zh/                   # Chinese content
 ├── images/               # Source image assets
 ├── pdf/                  # Source PDF assets
 ├── styles.css            # Custom site style
@@ -47,6 +45,27 @@ If you only want a temporary local output directory, use:
 ```bash
 quarto render --output-dir /tmp/zhaolab-preview
 ```
+
+## Developer Setup (pre-commit)
+
+Install and enable local commit checks:
+
+```bash
+python3 -m pip install pre-commit
+pre-commit install
+```
+
+Run checks manually on all files:
+
+```bash
+pre-commit run --all-files
+```
+
+Enabled checks in this repository:
+- secret leakage scan (`gitleaks`)
+- private key detection
+- large file guard (block newly added files over 20 MB)
+- trailing whitespace / EOF fixes
 
 ## Deployment (GitHub Pages)
 

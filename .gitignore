@@ -2,6 +2,7 @@
 /.quarto/
 **/.quarto/
 **/*.quarto_ipynb
+.quarto-cache/
 
 # Build output (do not commit local preview output)
 /_site/
@@ -30,6 +31,7 @@ pnpm-debug.log*
 # Environment files and local secrets
 .env
 .env.*
+!.env.example
 *.pem
 *.p12
 *.key
@@ -70,6 +72,6 @@ venv/
 *.swo
 *~
 
-# Local Office files
-*.docx
-*.xlsx
+# Office temp files
+~$*.docx
+~$*.xlsx
