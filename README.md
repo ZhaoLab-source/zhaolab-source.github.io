@@ -91,9 +91,9 @@ Recommended deployment flow:
 
 ## License
 - **Code & configuration** (Quarto project files, templates, HTML/CSS/JS): MIT License (see `LICENSE`).
-- **Website content** (text, figures, photos, PDFs, and other media under `images/` and `pdf/` unless noted otherwise): Creative Commons Attribution 4.0 International (CC BY 4.0) (see `CONTENT_LICENSE.md`).
+- **Website content** (text, images, photos, PDFs, and other media): All rights reserved unless otherwise stated.
 
-If a file indicates a different license or credit line, that notice takes precedence.
+Please contact the maintainers for permission to reuse content.
 
 ## Citation
 
@@ -105,7 +105,7 @@ If you use this repository or website content in academic work, cite it as:
   author       = {Zhao Lab},
   year         = {2026},
   howpublished = {GitHub repository},
-  note         = {\url{<add repository URL>}}
+  note         = {Maintained by Keyi Zhang. \url{https://github.com/ZhaoLab-source/zhaolab-source.github.io}}
 }
 ```
 
