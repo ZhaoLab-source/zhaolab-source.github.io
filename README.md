@@ -105,7 +105,8 @@ If you use this repository or website content in academic work, cite it as:
   author       = {Zhao Lab},
   year         = {2026},
   howpublished = {GitHub repository},
-  note         = {Maintained by Keyi Zhang. \url{https://github.com/ZhaoLab-source/zhaolab-source.github.io}}
+  url          = {https://github.com/ZhaoLab-source/zhaolab-source.github.io},
+  note         = {Maintained by Keyi Zhang.}
 }
 ```
 
