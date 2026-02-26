@@ -2,7 +2,7 @@
 
 Academic lab website source for Zhao Lab, maintained with [Quarto](https://quarto.org/) and published via GitHub Pages.
 
-Live site: `<add link>`
+Live site: `<[add link](https://zhaolab-source.github.io/)>`
 
 ## Project Overview
 
