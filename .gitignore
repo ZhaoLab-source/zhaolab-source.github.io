@@ -1,14 +1,77 @@
+# Quarto
 /.quarto/
 **/.quarto/
 **/*.quarto_ipynb
+.quarto-cache/
+
+# Build output (do not commit local preview output)
+/_site/
+**/_site/
 
 # macOS metadata
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
 
-# Local Office files
-*.docx
-*.xlsx
+# Editors / IDEs
+.vscode/
+.idea/
+*.code-workspace
 
-# Quarto local output directories (never commit)
-_site/
-**/_site/
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+id_rsa
+id_ed25519
+
+# Node
+node_modules/
+.npm/
+.pnpm-store/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Ruby / Jekyll (safe for this repo)
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Office temp files
+~$*.docx
+~$*.xlsx
