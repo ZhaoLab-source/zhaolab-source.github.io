@@ -90,11 +90,10 @@ Recommended deployment flow:
 4. Do not commit local caches, logs, or secrets.
 
 ## License
+- **Code & configuration** (Quarto project files, templates, HTML/CSS/JS): MIT License (see `LICENSE`).
+- **Website content** (text, figures, photos, PDFs, and other media under `images/` and `pdf/` unless noted otherwise): Creative Commons Attribution 4.0 International (CC BY 4.0) (see `CONTENT_LICENSE.md`).
 
-License file is not currently present.
-
-Suggested next step:
-- add `LICENSE` (commonly MIT, BSD-3-Clause, or CC BY 4.0 for site content)
+If a file indicates a different license or credit line, that notice takes precedence.
 
 ## Citation
 
