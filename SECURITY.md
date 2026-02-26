@@ -12,7 +12,7 @@ This repository is a public academic website. Security reports are welcome for:
 Please report security issues privately instead of opening a public issue.
 
 Use one of the following channels:
-- Maintainer email: `<add security contact email>`
+- Maintainer email: `<kevinzhangkeyi@gmail.com>`
 - Or PI contact email listed on the website contact page
 
 Include:
