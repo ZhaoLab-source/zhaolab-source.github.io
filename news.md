@@ -50,8 +50,8 @@ This study provides a robust evidence base for the profession's role in multidis
 ::: {.news-item}
 ![](images/news/cps_neuromodulation_2026.png){.news-thumb alt="Dr Di Zhao CPS conference presentation"}
 
-::: {.badge .date #month-2026-06}
-2026-06
+::: {.badge .date #month-2026-05-conference}
+2026-05
 :::
 
 <span class="badge award">Conference</span>  
