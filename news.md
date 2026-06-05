@@ -5,6 +5,64 @@ permalink: /news/
 
 ::: {.news-list}
 ::: {.news-item}
+![](images/news/biopsych_commentary_2026.png){.news-thumb alt="Biological Psychiatry invited commentary"}
+
+::: {.badge .date #month-2026-06}
+2026-06
+:::
+
+<span class="badge pub">Publication</span>  
+**News: Our Research Featured with Editor's Spotlight and Invited Commentary in Biological Psychiatry**
+
+We are delighted to announce that our latest paper “Understanding the Neurobiology and Computational Mechanisms of Social Conformity: Implications for Psychiatric Disorders”, published in Biological Psychiatry, has been selected by the journal's Editor-in-Chief for a special recommendation and has received an invited commentary, a distinction reserved for work judged to make an exceptional contribution to the field.
+
+*"This integrative perspective pushes the field beyond mapping behavior onto neural correlates and toward deciphering the computational principles governing social decision making."*
+
+*Invited Commentary, Biological Psychiatry*
+
+[Read the Invited Commentary](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(25)01666-X/abstract){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
+:::
+
+::: {.news-item}
+![](images/news/nature_mental_health_asd_2026.png){.news-thumb alt="Nature Mental Health ASD intervention analysis"}
+
+::: {.badge .date #month-2026-05}
+2026-05
+:::
+
+<span class="badge pub">Publication</span>  
+**News: Our analyses published in Nature Mental Health**
+
+A research team led by Dr. Di Zhao at the School of Nursing, Shanghai Jiao Tong University, has published a landmark study in Nature Mental Health. The study presents the first comprehensive, quantitative comparison of pharmacological and non-pharmacological interventions for autism spectrum disorder (ASD) conducted within a unified analytical framework, providing high-level evidence to guide evidence-based nursing practice.
+
+The research team applied rigorous inclusion criteria to identify 149 randomized controlled trials (RCTs) with a combined sample of 9,011 participants spanning the full lifespan, from early childhood through adulthood.
+
+The findings reveal a striking advantage for non-pharmacological nursing interventions, including applied behavior analysis, cognitive skills training, social skills intervention, and neuromodulation over pharmacological treatment. The pooled effect size for non-pharmacological interventions (Hedges' g = 0.70) was substantially larger than that for pharmacological treatments (g = 0.20), a difference that reached high statistical significance (P < 0.0001). Across all three core nursing outcome domains: social communication, restricted and repetitive behaviors, and overall symptom severity, non-pharmacological interventions consistently outperformed medication.
+
+The study also identified several clinically important moderating variables in nursing practice, including intervention duration, rater type, and cultural context, all of which significantly influenced treatment outcomes. These findings underscore the importance of developing individualized, culturally adapted care plans for people with ASD.
+
+Based on these results, the research team recommends that nursing professionals prioritize behavior- and cognition-based psychosocial interventions in routine clinical practice, while reserving pharmacological treatment as an adjunct for managing comorbid symptoms such as irritability and anxiety. This integrated behavioral intervention as the primary approach, pharmacotherapy as a supplement, offers a practical framework for multidisciplinary ASD care teams.
+
+This study provides a robust evidence base for the profession's role in multidisciplinary ASD diagnosis and treatment, and carries important clinical implications for advancing precise, individualized practice in autism care.  
+[Read paper](https://doi.org/10.1038/s44220-026-00652-2){.btn .btn-sm .btn-primary target="_blank" rel="noopener"}
+:::
+
+::: {.news-item}
+![](images/news/cps_neuromodulation_2026.png){.news-thumb alt="Dr Di Zhao CPS conference presentation"}
+
+::: {.badge .date #month-2026-06}
+2026-06
+:::
+
+<span class="badge award">Conference</span>  
+**News: Dr Di Zhao Presents on Closed-Loop Neuromodulation for Addiction at the Chinese Psychological Society Annual Conference**
+
+Dr Di Zhao was invited to deliver a talk titled "Closed-Loop Neuromodulation for Addiction" at the Annual Conference of the Chinese Psychological Society (CPS), Division of General Psychology and Experimental Psychology.
+
+The talk was part of a dedicated symposium on "Brain–Computer Interfaces and Neuromodulation for Brain and Mental Health", which brought together leading researchers to discuss cutting-edge advances in closed-loop neural interventions and their translational potential for psychiatric and neurological conditions.
+:::
+
+::: {.news-item}
 ![](images/news/LiangYue_news.png){.news-thumb alt="Dr. Liang Yue News"}
 
 ::: {.badge .date #month-2026-01}
