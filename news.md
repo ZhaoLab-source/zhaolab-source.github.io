@@ -5,6 +5,19 @@ permalink: /news/
 
 ::: {.news-list}
 ::: {.news-item}
+![](images/news/2026_Academic_Annual_Meeting.jpg){.news-thumb alt="Dr. Di Zhao delivering a special report at the 2026 Academic Annual Meeting"}
+
+::: {.badge .date #month-2026-08}
+2026-08
+:::
+
+<span class="badge award">Conference</span><br>
+**News: Dr. Di Zhao Delivers Special Report at the 2026 Academic Annual Meeting of the Addiction Neuroscience Committee**
+
+Dr. Di Zhao delivered a special report entitled “Personalized Neuromodulation for Addiction” at the 2026 Academic Annual Meeting of the Addiction Neuroscience Committee of the Chinese Association of Drug Abuse Prevention and Treatment, held from August 12 to 14, 2026. The report highlighted individualized, circuit-informed neuromodulation approaches and their potential to advance precision interventions for addictive disorders.
+:::
+
+::: {.news-item}
 ![](images/news/biopsych_commentary_2026.png){.news-thumb alt="Biological Psychiatry invited commentary"}
 
 ::: {.badge .date #month-2026-06}
