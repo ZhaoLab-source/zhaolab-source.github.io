@@ -8,7 +8,7 @@ format:
 
 ::: {.pi-profile}
 <div class="pi-header text-center">
-  ![](images/dizhao_placeholder.png){.pi-avatar alt="Di Zhao"}
+  ![](images/dizhao_placeholder.jpg){.pi-avatar alt="Di Zhao"}
 
   **Di Zhao, PhD**  
   <a href="mailto:dizhao_sunset@sjtu.edu.cn">dizhao_sunset@sjtu.edu.cn</a>
@@ -48,4 +48,3 @@ Shanghai, China
 :::
 
 ---
-
