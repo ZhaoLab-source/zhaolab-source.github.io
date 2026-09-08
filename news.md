@@ -16,6 +16,21 @@ Congratulations to Dr. Di Zhao on receiving a 2026 National Natural Science Foun
 :::
 
 ::: {.news-item}
+![](images/news/escop_copm_2026.jpg){.news-thumb alt="Poster presentation and poster session at the Joint ESCoP-CoPM Meeting 2026"}
+
+::: {.badge .date #month-2026-09-conference}
+2026-09
+:::
+
+<span class="badge award">Conference</span><br>
+**News: Dr. Shaoling Zhao and Keyi Zhang Present Posters at the Joint ESCoP-CoPM Meeting 2026**
+
+Dr. Shaoling Zhao and master's student Keyi Zhang attended the Joint ESCoP-CoPM Meeting 2026, held from August 31 to September 4, 2026, in Hangzhou, China. The meeting was jointly organized by the European Society for Cognitive Psychology (ESCoP) and the Cognitive Processes and Modelling Division of the Chinese Psychological Society, with the Department of Psychology and Behavioural Sciences at Zhejiang University as the local host.
+
+Both presented posters featuring the laboratory's latest work. Dr. Shaoling Zhao presented "Psychopathology risk reshapes the hierarchical socioeconomic impact on personalized functional network topography in children", and Keyi Zhang presented "Human intracranial EEG reveals hippocampal encoding of target duration and dlPFC tracking of production state during interval timing".
+:::
+
+::: {.news-item}
 ![](images/news/2026_Academic_Annual_Meeting.jpg){.news-thumb alt="Dr. Di Zhao delivering a special report at the 2026 Academic Annual Meeting"}
 
 ::: {.badge .date #month-2026-08}
