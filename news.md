@@ -5,6 +5,17 @@ permalink: /news/
 
 ::: {.news-list}
 ::: {.news-item}
+::: {.badge .date #month-2026-09}
+2026-09
+:::
+
+<span class="badge grant">Grant</span><br>
+**News: Dr. Di Zhao Receives 2026 NSFC General Program Grant**
+
+Congratulations to Dr. Di Zhao on receiving a 2026 National Natural Science Foundation of China (NSFC) General Program Grant. This marks her fourth NSFC-funded project, recognizing her continued contributions to addiction neuroscience and neuromodulation research.
+:::
+
+::: {.news-item}
 ![](images/news/2026_Academic_Annual_Meeting.jpg){.news-thumb alt="Dr. Di Zhao delivering a special report at the 2026 Academic Annual Meeting"}
 
 ::: {.badge .date #month-2026-08}
