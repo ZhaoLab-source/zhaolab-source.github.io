@@ -60,6 +60,18 @@ Xinyi (Kathryn) Zhou
 <div class="member-email"><a href="mailto:kkkathryn@sjtu.edu.cn">kkkathryn@sjtu.edu.cn</a></div>
 <div class="member-role">PhD Student · interested in using non-invasive brain stimulation (e.g., TMS/tDCS) and neuroimaging to investigate the neural mechanisms of cognitive impairment in individuals with addiction</div>
 :::
+::: {.member-card}
+![Yutong Wang](images/YutongWang.jpg){.member-avatar alt="Yutong Wang"}
+Yutong Wang
+<!--div class="member-email"><a href="mailto:REPLACE_WITH_EMAIL">[填写邮箱]</a></div-->
+<div class="member-role">PhD Student</div>
+:::
+::: {.member-card}
+![Yunshan Hu](images/YunshanHu.jpg){.member-avatar alt="Yunshan Hu"}
+Yunshan Hu
+<!--div class="member-email"><a href="mailto:REPLACE_WITH_EMAIL">[填写邮箱]</a></div-->
+<div class="member-role">PhD Student</div>
+:::
 :::
 
 ### Master Students
