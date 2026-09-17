@@ -6,16 +6,16 @@ format:
     body-classes: page-index
 ---
 
-# <span class="page-hero-title"><span class="hero-text"><span class="brand-title">Zhao Lab</span> | Mental Spectrum Research Group</span><img class="page-hero-logo" src="images/labweb_logo.png" alt="Zhao Lab logo" /></span>
+# <span class="page-hero-title"><span class="hero-text"><span class="brand-title">Zhao Lab</span> | Mental Spectrum Research Group</span><img class="page-hero-logo" src="images/labweb_logo.jpg" alt="Zhao Lab logo" /></span>
 
 
 ```{=html}
 <div class="hero-duo">
   <figure class="hero-card">
-    <img src="images/labview1.png" alt="Lab view 1 – research focus visual" />
+    <img src="images/labview1.jpg" alt="Lab view 1 – research focus visual" />
   </figure>
   <figure class="hero-card">
-    <img src="images/labview2.png" alt="Lab view 2 – methodology visual" />
+    <img src="images/labview2.jpg" alt="Lab view 2 – methodology visual" />
   </figure>
   
 </div>
