@@ -63,7 +63,7 @@ We are delighted to announce that our latest paper “Understanding the Neurobio
 :::
 
 ::: {.news-item}
-![](images/news/nature_mental_health_asd_2026.png){.news-thumb alt="Nature Mental Health ASD intervention analysis"}
+![](images/news/nature_mental_health_asd_2026.jpg){.news-thumb alt="Nature Mental Health ASD intervention analysis"}
 
 ::: {.badge .date #month-2026-05}
 2026-05
@@ -87,7 +87,7 @@ This study provides a robust evidence base for the profession's role in multidis
 :::
 
 ::: {.news-item}
-![](images/news/cps_neuromodulation_2026.png){.news-thumb alt="Dr Di Zhao CPS conference presentation"}
+![](images/news/cps_neuromodulation_2026.jpg){.news-thumb alt="Dr Di Zhao CPS conference presentation"}
 
 ::: {.badge .date #month-2026-05-conference}
 2026-05
@@ -102,7 +102,7 @@ The talk was part of a dedicated symposium on "Brain–Computer Interfaces and N
 :::
 
 ::: {.news-item}
-![](images/news/LiangYue_news.png){.news-thumb alt="Dr. Liang Yue News"}
+![](images/news/LiangYue_news.jpg){.news-thumb alt="Dr. Liang Yue News"}
 
 ::: {.badge .date #month-2026-01}
 2026-01
@@ -119,7 +119,7 @@ Our laboratory is also intended to investigate the underlying neural mechanisms 
 :::
 
 ::: {.news-item}
-![](images/news/YihanYan_paper1.png){.news-thumb alt="STAR Protocols News"}
+![](images/news/YihanYan_paper1.jpg){.news-thumb alt="STAR Protocols News"}
 
 ::: {.badge .date #month-2025-12}
 2025-12
