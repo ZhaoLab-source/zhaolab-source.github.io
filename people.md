@@ -63,13 +63,13 @@ Xinyi (Kathryn) Zhou
 ::: {.member-card}
 ![Yutong Wang](images/YutongWang.jpg){.member-avatar alt="Yutong Wang"}
 Yutong Wang
-<!--div class="member-email"><a href="mailto:REPLACE_WITH_EMAIL">[填写邮箱]</a></div-->
+<div class="member-email"><a href="mailto:ytwang621@sjtu.edu.cn">ytwang621@sjtu.edu.cn</a></div>
 <div class="member-role">PhD Student</div>
 :::
 ::: {.member-card}
 ![Yunshan Hu](images/YunshanHu.jpg){.member-avatar alt="Yunshan Hu"}
 Yunshan Hu
-<!--div class="member-email"><a href="mailto:REPLACE_WITH_EMAIL">[填写邮箱]</a></div-->
+<div class="member-email"><a href="mailto:huyshancoral@sjtu.edu.cn">huyshancoral@sjtu.edu.cn</a></div>
 <div class="member-role">PhD Student</div>
 :::
 :::
